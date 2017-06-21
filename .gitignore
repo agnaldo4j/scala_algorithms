@@ -171,3 +171,7 @@ Status
 sftp-config.json
 project/project/
 /log/analyzer.log
+=======
+*.class
+*.log
+
